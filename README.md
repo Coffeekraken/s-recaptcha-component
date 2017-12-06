@@ -4,14 +4,14 @@
 	<a href="https://travis-ci.org/coffeekraken/s-recaptcha-component">
 		<img src="https://img.shields.io/travis/coffeekraken/s-recaptcha-component.svg?style=flat-square" />
 	</a>
-	<a href="https://www.npmjs.com/package/{npm-package-name}">
-		<img src="https://img.shields.io/npm/v/{npm-package-name}.svg?style=flat-square" />
+	<a href="https://www.npmjs.com/package/coffeekraken-s-recaptcha-component">
+		<img src="https://img.shields.io/npm/v/coffeekraken-s-recaptcha-component.svg?style=flat-square" />
 	</a>
 	<a href="https://github.com/coffeekraken/s-recaptcha-component/blob/master/LICENSE.txt">
-		<img src="https://img.shields.io/npm/l/{npm-package-name}.svg?style=flat-square" />
+		<img src="https://img.shields.io/npm/l/coffeekraken-s-recaptcha-component.svg?style=flat-square" />
 	</a>
 	<!-- <a href="https://github.com/coffeekraken/s-recaptcha-component">
-		<img src="https://img.shields.io/npm/dt/{npm-package-name}.svg?style=flat-square" />
+		<img src="https://img.shields.io/npm/dt/coffeekraken-s-recaptcha-component.svg?style=flat-square" />
 	</a>
 	<a href="https://github.com/coffeekraken/s-recaptcha-component">
 		<img src="https://img.shields.io/github/forks/coffeekraken/s-recaptcha-component.svg?style=social&label=Fork&style=flat-square" />
