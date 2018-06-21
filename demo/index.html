@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="dist/css/style.css" />
+</head>
+<body>
+
+	<form name="my-cool-form">
+		<input type="checkbox" name="my-captcha" style="display:none" required />
+		<s-recaptcha for="my-captcha" sitekey="6Ld4DmAUAAAAAGFPqTFuTAwhb9xClISGJStNPQR5"></s-recaptcha>
+		<s-validator for="my-captcha"></s-validator>
+
+		<input type="checkbox" name="my-captcha-2" style="display:none" required />
+		<s-recaptcha class="m-t" theme="dark" for="my-captcha-2" sitekey="6Ld4DmAUAAAAAGFPqTFuTAwhb9xClISGJStNPQR5"></s-recaptcha>
+		<s-validator for="my-captcha-2"></s-validator>
+
+		<input type="submit" value="Submit" class="btn btn--primary m-t" />
+	</form>
+
+	<script src="dist/js/app.js"></script>
+</body>
+</html>
