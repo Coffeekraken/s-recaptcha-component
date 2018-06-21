@@ -1,6 +1,6 @@
 {
   "name": "coffeekraken-s-recaptcha-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily display a google recaptcha form element that will map on a simple checkbox for easy form validation. This does not replace the server side check of the captcha validation.",
   "main": "dist/index.js",
   "homepage": "http://coffeekraken.io",
