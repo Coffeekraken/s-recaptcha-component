@@ -29,6 +29,8 @@
 
 Easily display a google recaptcha form element that will map on a simple checkbox for easy form validation. This does not replace the server side check of the captcha validation.
 
+[![View demo](http://components.coffeekraken.io/assets/img/view-demo.png)](http://components.coffeekraken.io/app/s-recaptcha-component)
+
 ## Table of content
 
 1. **[Demo](http://components.coffeekraken.io/app/s-recaptcha-component)**
